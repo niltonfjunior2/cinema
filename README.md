@@ -6,10 +6,10 @@ Sistema didático e interativo desenvolvido em **Python** com interface gráfica
 
 ## 📌 Sobre o Projeto
 
-O objetivo da aplicação é gerenciar o mapa de assentos de uma sala de cinema em tempo real. Cada cadeira é mapeada em uma matriz lógica bidimensional ($6 \times 8$), onde os estados são representados numericamente:
+O objetivo da aplicação é gerenciar o mapa de assentos de uma sala de cinema em tempo real. Cada cadeira é mapeada em uma matriz lógica bidimensional ($6 \times 8$), onde os estados são representados numericamente em uma interface de **Tema Claro** para melhor contraste:
 
-- **`0`**: Cadeira Disponível (Verde)
-- **`1`**: Cadeira Ocupada (Vermelho)
+- **`0`**: Cadeira Disponível (Verde Esmeralda)
+- **`1`**: Cadeira Ocupada (Vermelho Vivo)
 
 A interface gráfica sincroniza dinamicamente as ações do usuário com a matriz de dados, oferecendo visualização instantânea de métricas, cálculo de ocupação e emissão de relatório ao encerrar.
 

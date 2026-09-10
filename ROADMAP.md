@@ -31,9 +31,10 @@ O **CineVision** nasceu como uma aplicação educacional para demonstrar o contr
   - [x] Matriz bidimensional de assentos ($6 \times 8 = 48$ lugares).
   - [x] Representação binária de estado (`0 = Disponível`, `1 = Ocupada`).
 - [x] **Interface Gráfica (Tkinter / ttk)**:
-  - [x] Grid interativo de botões coloridos (`#2dce89` verde para livre, `#f5365c` vermelho para ocupado).
+  - [x] Interface em **Tema Claro (Light Mode)** para alto contraste e legibilidade.
+  - [x] Grid interativo de botões coloridos (`#10b981` verde para livre, `#ef4444` vermelho para ocupado).
   - [x] Identificação de fileiras (`A` a `F`) e colunas (`1` a `8`).
-  - [x] Indicador visual da tela de projeção do cinema.
+  - [x] Indicador visual da tela de projeção do cinema em Azul Royal.
   - [x] Dashboard em tempo real com contadores (Disponíveis, Ocupadas e % de Ocupação).
 - [x] **Regras de Negócio e Ações**:
   - [x] Alternância de estado do assento via clique único ($0 \leftrightarrow 1$).

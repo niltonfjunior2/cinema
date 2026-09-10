@@ -54,14 +54,15 @@ NUM_COLUNAS = 8  # Colunas numeradas de 1 até 8
 ## 🎨 4. Design System e Interface Gráfica
 
 - **Frameworks**: `tkinter` + `tkinter.ttk` (com tema `clam`).
-- **Paleta de Cores**:
-  - Fundo geral: `#1e1e2f` (Dark mode)
-  - Fundo dos painéis/cartões: `#27293d`
-  - Assento Disponível: `#2dce89` (Verde esmeralda)
-  - Assento Ocupado: `#f5365c` (Vermelho carmesim)
-  - Destaque/Tela: `#5e72e4` (Azul)
-  - Botão Encerrar: `#fb6340` (Laranja)
-  - Botão Reset: `#11cdef` (Ciano)
+- **Paleta de Cores (Tema Claro)**:
+  - Fundo geral: `#f0f4f8` (Light Blue/Grey)
+  - Fundo dos painéis/cartões: `#ffffff` (Branco)
+  - Texto Principal: `#1e293b` (Slate/Grafite)
+  - Assento Disponível: `#10b981` (Verde esmeralda)
+  - Assento Ocupado: `#ef4444` (Vermelho vivo)
+  - Destaque/Tela: `#2563eb` (Azul Royal)
+  - Botão Encerrar: `#dc2626` (Vermelho)
+  - Botão Reset: `#0284c7` (Azul Ciano)
 
 ---
 
