@@ -87,10 +87,12 @@ Certifique-se de ter o Python instalado em seu computador (versão 3.8 ou superi
 
 ```text
 cinema/
-├── ia/
-│   └── Prompt Python.md    # Especificação pedagógica e diretrizes do projeto
+├── MEMORY.md               # Memória de trabalho e contexto arquitetural
+├── ROADMAP.md              # Planejamento de releases e novas funcionalidades
+├── README.md               # Documentação principal do repositório
 ├── main.py                 # Código-fonte principal (procedural + Tkinter)
-└── README.md               # Documentação do repositório
+└── ia/
+    └── Prompt Python.md    # Especificação pedagógica e diretrizes do projeto
 ```
 
 ---

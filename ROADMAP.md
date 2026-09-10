@@ -88,7 +88,17 @@ O **CineVision** nasceu como uma aplicação educacional para demonstrar o contr
 
 ---
 
-## 🛠️ Critérios de Aceite para Novas Contribuições
+## � Relação de Arquivos do Projeto
+
+- `main.py`: Código-fonte funcional da aplicação em paradigma procedural puro.
+- `README.md`: Documentação pública de apresentação do repositório.
+- `ROADMAP.md`: Planejamento de releases e novas funcionalidades.
+- `MEMORY.md`: Registro de contexto durável e base de conhecimento.
+- `ia/Prompt Python.md`: Prompt de especificação original do projeto.
+
+---
+
+## �🛠️ Critérios de Aceite para Novas Contribuições
 
 1. Todo código novo deve manter conformidade com a convenção **PEP 8**.
 2. Funções devem manter responsabilidade única e documentação clara (*docstrings* e comentários pedagógicos).
