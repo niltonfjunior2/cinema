@@ -20,16 +20,16 @@ NUM_COLUNAS = 8
 CADEIRA_DISPONIVEL = 0
 CADEIRA_OCUPADA = 1
 
-# Paleta de cores para estilização visual dos botões e interface
-COR_FUNDO = "#1e1e2f"
-COR_PAINEL = "#27293d"
-COR_TEXTO = "#ffffff"
-COR_TEXTO_SECUNDARIO = "#a0a5b5"
-COR_DISPONIVEL = "#2dce89"  # Verde esmeralda (livre)
-COR_OCUPADA = "#f5365c"     # Vermelho carmesim (ocupado)
-COR_TELA = "#5e72e4"         # Azul para a representação da tela do cinema
-COR_BOTAO_SAIR = "#fb6340"   # Laranja para ação de encerrar
-COR_BOTAO_RESET = "#11cdef"  # Ciano para reiniciar
+# Paleta de cores para estilização visual dos botões e interface (Tema Claro)
+COR_FUNDO = "#f0f4f8"        # Fundo claro suave para a janela principal
+COR_PAINEL = "#ffffff"       # Fundo dos cartões e painel da sala (Branco)
+COR_TEXTO = "#1e293b"        # Texto principal escuro (Slate/Grafite) para alto contraste
+COR_TEXTO_SECUNDARIO = "#64748b"  # Texto secundário (Cinza médio)
+COR_DISPONIVEL = "#10b981"   # Verde esmeralda (livre)
+COR_OCUPADA = "#ef4444"      # Vermelho vivo (ocupado)
+COR_TELA = "#2563eb"         # Azul royal para representação da tela do cinema
+COR_BOTAO_SAIR = "#dc2626"   # Vermelho de ação para encerrar
+COR_BOTAO_RESET = "#0284c7"  # Azul ciano para reiniciar
 
 # Variáveis de estado global (armazenamento de dados e referências de widgets)
 matriz_cadeiras = []        # Matriz bidimensional de inteiros (0 e 1)
